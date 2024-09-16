@@ -41,7 +41,6 @@ AtiiQ is a fast-growing hardware company expanding its global footprint through 
 ## **Technical & Soft Skills**
 
 **Technical Skills:**
-- Proficiency in **Excel, PowerPoint, and Power BI** with advanced skills in **M and DAX languages**.
 - Solid understanding of business concepts like **net sales, COGS, gross margin, and manufacturing costs**.
 - Expertise in applying Excel basics for **formulas, tables, charts, and data cleaning**.
 - Advanced use of **VLOOKUP, XLOOKUP, and Power Query** for merging and transforming data.
